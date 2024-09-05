@@ -1,8 +1,11 @@
 # 1. Instalasi ubuntu VMware
 ![Screenshot 2024-09-05 104423](https://github.com/user-attachments/assets/4082b27c-924d-4a21-b970-f547683f64f6)
-![Screenshot 2024-09-05 104528](https://github.com/user-attachments/assets/12c5500e-0605-45b4-ae2c-c63c8da43f3b)
+![Screenshot 2024-09-05 104528](https://github.com/user-attachments/assets/8bae2add-11ee-4d7d-b431-f4d64d7026c6)
+
+
 Bentuk tampilan setelah dimasukkan kata sandi.
-![Screenshot 2024-09-05 104607](https://github.com/user-attachments/assets/19cea661-d75c-4dfc-a261-baacbcbcb822)
+![Screenshot 2024-09-05 112050](https://github.com/user-attachments/assets/bb11968e-2635-4fb0-9674-72efe0ab1ea5)
+
 
 # 2. Mengapa pada saat instalasi perlu dipilih “/” pada opsi Mount Point ?
 Pada proses instalasi diperlukan “/” pada opsi Mount Point karena ini adalah simbol untuk 

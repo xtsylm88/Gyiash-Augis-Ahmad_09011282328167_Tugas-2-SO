@@ -34,4 +34,21 @@
 17. Menampilkan daftar file dan direktori di dalam direktori saat ini.
 ![route-n](https://github.com/user-attachments/assets/cbfbb3c4-277f-4c7a-8289-4fb872672305)
 18. Menampilkan atau mengatur tabel routing jaringan.
-
+![less](https://github.com/user-attachments/assets/96e51998-9b80-4f8f-847d-9615924cb831)
+19. Menampilkan isi file dengan navigasi maju dan mundur.
+![rmdir dkk](https://github.com/user-attachments/assets/9a83cb9d-799a-4af2-bd61-a633eb31a41b)
+20. Menampilkan isi file.
+![image](https://github.com/user-attachments/assets/6ed9bae9-f14c-4ed8-b43a-52be3171c43b)
+21. Menampilkan baris terakhir dari file.
+![Screenshot 2024-09-05 130005](https://github.com/user-attachments/assets/2587bce4-e0d0-4ef7-8923-3d984884083a)
+22. Mencari file dengan cepat menggunakan database.
+![Screenshot 2024-09-05 130127](https://github.com/user-attachments/assets/e3359141-992b-4ca3-9d17-e2a4e3a86406)
+23. Menampilkan jalur file eksekusi dari perintah.
+![image](https://github.com/user-attachments/assets/c1680293-24b7-4709-a830-da4694dc3e66)
+24. Menampilkan manual perintah.
+![Screenshot 2024-09-05 130127](https://github.com/user-attachments/assets/8406a1fe-e90d-40b6-92a1-5959508a8bdc)
+25. Mengubah izin akses file.
+![Screenshot 2024-09-05 130227](https://github.com/user-attachments/assets/6c85bee3-83e0-45cd-8edf-211c1f92a742)
+26. Menampilkan manual perintah.
+![Screenshot 2024-09-05 130431](https://github.com/user-attachments/assets/7c5939a0-1bdc-4abe-8f00-c85c34f965aa)
+27. 

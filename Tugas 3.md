@@ -1,4 +1,4 @@
-![cd](https://github.com/user-attachments/assets/97314791-e46b-4a52-8fe9-31be4581b2ed)
+![Screenshot 2024-09-05 131445](https://github.com/user-attachments/assets/bd079e23-b89d-467b-b208-21310a9aa3c9)![cd](https://github.com/user-attachments/assets/97314791-e46b-4a52-8fe9-31be4581b2ed)
 1. Mengubah direktori saat ini.
 ![df-h](https://github.com/user-attachments/assets/d3b86f4f-4dda-4d30-9668-1ea2e90f0bf9)
 2. Menampilkan penggunaan ruang disk.
@@ -51,4 +51,51 @@
 ![Screenshot 2024-09-05 130227](https://github.com/user-attachments/assets/6c85bee3-83e0-45cd-8edf-211c1f92a742)
 26. Menampilkan manual perintah.
 ![Screenshot 2024-09-05 130431](https://github.com/user-attachments/assets/7c5939a0-1bdc-4abe-8f00-c85c34f965aa)
-27. 
+27. Mengubah izin akses file.
+![Screenshot 2024-09-05 130431](https://github.com/user-attachments/assets/adcebed0-da45-4213-91f5-19acdb82f291)
+28. Mengubah pemilik dan grup file.
+![Screenshot 2024-09-05 132840](https://github.com/user-attachments/assets/7ec57a47-9855-494e-b8b8-38086b20e242)
+29. Menampilkan daftar proses yang berjalan.
+![Screenshot 2024-09-05 132909](https://github.com/user-attachments/assets/bbb37da4-3c52-4b90-a5ff-47bf0a9775a4)
+30. Mengirim sinyal ke proses, biasanya untuk menghentikan proses.
+![Screenshot 2024-09-05 132930](https://github.com/user-attachments/assets/dfb39298-979b-4fbb-b1f7-b88f5af5e92b)
+31. Menghentikan proses berdasarkan nama.
+![Screenshot 2024-09-05 133300](https://github.com/user-attachments/assets/1d7ea796-5162-476e-aeaa-21dc4e38acc8)
+32.  Menghentikan semua proses dengan nama tertentu.
+![image](https://github.com/user-attachments/assets/d505a29a-82b7-4af5-9983-592571af634f)
+33. Menguji konektivitas jaringan ke host.
+![Screenshot 2024-09-05 133646](https://github.com/user-attachments/assets/9d567576-a759-425e-a07f-a1d96a4a4f65)
+34. Mengunduh file dari internet.
+![Screenshot 2024-09-05 133646](https://github.com/user-attachments/assets/b79652ee-dec2-447e-82bf-9f1e521db3b5)
+35. Menampilkan jalur yang dilalui paket untuk mencapai tujuan.
+![Screenshot 2024-09-05 133646](https://github.com/user-attachments/assets/2fb03844-cca1-4d60-b7e5-7cd20553e29d)
+36. Menampilkan statistik jaringan dan koneksi.
+![Screenshot 2024-09-05 134158](https://github.com/user-attachments/assets/2a716a5c-e8ef-4e42-a83f-1e838ee5b373)
+37. Menampilkan statistik soket.
+![Screenshot 2024-09-05 134244](https://github.com/user-attachments/assets/9a4cd692-bc05-4d36-a999-43ad978bde3b)
+38. Mengambil data dari atau mengirim data ke server.
+![Screenshot 2024-09-05 134343](https://github.com/user-attachments/assets/47b8585c-5041-4c84-86be-67ecc7557814)
+39.  Mengarsipkan dan mengekstrak file.
+![Screenshot 2024-09-05 134441](https://github.com/user-attachments/assets/c9930186-cc24-4267-b026-409f4ff0e066)
+40. Membuat arsip ZIP.
+![Screenshot 2024-09-05 134540](https://github.com/user-attachments/assets/a0d68af7-be99-43ba-8bce-be0a3c84eeac)
+41. Mengekstrak arsip ZIP.
+![Screenshot 2024-09-05 134641](https://github.com/user-attachments/assets/bd75300c-0090-4d1b-bad4-f1ef955fdb57)
+42. Menjalankan perintah dengan hak akses superuser.
+![Screenshot 2024-09-05 134835](https://github.com/user-attachments/assets/8c85d67a-b176-42f0-9ca6-50346446d278)
+43. Mengubah kata sandi pengguna.
+![Screenshot 2024-09-05 135020](https://github.com/user-attachments/assets/cc1a7733-a4f5-48de-9dff-3f86f74cc389)
+44. Menampilkan riwayat perintah yang telah dijalankan.
+![Screenshot 2024-09-05 135123](https://github.com/user-attachments/assets/70c566c5-9dc8-4a9f-a484-836dbaa65a87)
+45. Membuat alias untuk perintah.
+![Screenshot 2024-09-05 135213](https://github.com/user-attachments/assets/5cb4ef61-7d3d-4c23-a0a8-932152d31057)
+46. Menghapus alias.
+![Screenshot 2024-09-05 135557](https://github.com/user-attachments/assets/1089818b-1ab8-4adc-9b74-9fbdb32cba8b)
+47.  Menampilkan isi file dengan kemampuan scroll.
+![Screenshot 2024-09-05 135316](https://github.com/user-attachments/assets/5b2b8b7d-89e3-47da-9bfa-92562ed14513)
+48. Mengatur tugas penjadwalan.
+![Screenshot 2024-09-05 135939](https://github.com/user-attachments/assets/4f4e15d7-944a-48a9-908c-6aa34de62ed8)
+49. Menampilkan proses yang berjalan secara real-time.
+![Screenshot 2024-09-05 140141](https://github.com/user-attachments/assets/3ec26b8b-2080-4be7-928b-db9985dffb8f)
+50. Menyunting teks dalam aliran data.
+

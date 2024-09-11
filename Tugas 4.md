@@ -8,6 +8,7 @@
 ![Screenshot 2024-09-11 233835](https://github.com/user-attachments/assets/a1d0f2b2-fcce-4868-be46-a45cfb89f22b)
 
 3. Membuat file *dataku* yang berisi *nama*, *nim*, dan *alamat* pada sub direktori *januari*, kemudian copy-kan file tersebut ke sub direktori *februari* dan *maret*.
+
 ![Screenshot 2024-09-11 234147](https://github.com/user-attachments/assets/2639f324-5207-4019-bc83-b4e9535b3dcd)
 ![Screenshot 2024-09-12 065448](https://github.com/user-attachments/assets/41339bf6-7341-45c2-b792-60ef2ed2d3b0)
 

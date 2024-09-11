@@ -9,3 +9,7 @@
 
 3. Membuat file *dataku* yang berisi *nama*, *nim*, dan *alamat* pada sub direktori *januari*, kemudian copy-kan file tersebut ke sub direktori *februari* dan *maret*.
 ![Screenshot 2024-09-11 234147](https://github.com/user-attachments/assets/2639f324-5207-4019-bc83-b4e9535b3dcd)
+![Screenshot 2024-09-12 065448](https://github.com/user-attachments/assets/41339bf6-7341-45c2-b792-60ef2ed2d3b0)
+
+4. Mengubah izin akses file *dataku* pada sub direktori *januari* sehingga *group* dan *others* dapat melakukan *write*.
+![Screenshot 2024-09-12 065624](https://github.com/user-attachments/assets/46e311af-ba33-4310-8446-f4664755cb66)

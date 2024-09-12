@@ -25,6 +25,7 @@ tetapi *group* dan *others* hanya bisa *read* dan *execute*.
 ![Screenshot 2024-09-12 070306](https://github.com/user-attachments/assets/a747b962-1e91-406b-8f1f-6d8219c9e664)
 
 7. Menghapus direktori *maret*.
+
 ![Screenshot 2024-09-12 070508](https://github.com/user-attachments/assets/aa313cfe-c8e1-4531-9780-21dde587e3a2)
 
 8. Mengubah kepemilikan sub direktori *februari* sehingga *user* dan *group* hanya dapat melakukan *read*, dan cobalah untuk membuat direktori baru *haha* pada sub direktori *februari*.

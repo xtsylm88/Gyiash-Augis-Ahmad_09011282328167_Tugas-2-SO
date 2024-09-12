@@ -29,6 +29,7 @@ tetapi *group* dan *others* hanya bisa *read* dan *execute*.
 ![Screenshot 2024-09-12 070508](https://github.com/user-attachments/assets/aa313cfe-c8e1-4531-9780-21dde587e3a2)
 
 8. Mengubah kepemilikan sub direktori *februari* sehingga *user* dan *group* hanya dapat melakukan *read*, dan cobalah untuk membuat direktori baru *haha* pada sub direktori *februari*.
+
 ![Screenshot 2024-09-12 071019](https://github.com/user-attachments/assets/8814f8f8-e64e-47a7-973c-76103450f8af)
 
 9. Modifikasi *umask* dari file *dataku* pada sub direktori *januari* menjadi *027* dan tentukan nilai default-nya.

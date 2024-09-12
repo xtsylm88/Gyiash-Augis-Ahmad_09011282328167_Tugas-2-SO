@@ -14,3 +14,25 @@
 
 4. Mengubah izin akses file *dataku* pada sub direktori *januari* sehingga *group* dan *others* dapat melakukan *write*.
 ![Screenshot 2024-09-12 065624](https://github.com/user-attachments/assets/46e311af-ba33-4310-8446-f4664755cb66)
+
+5. Mengubah izin akses file *dataku* pada sub direktori *februari* sehingga *user* dapat melakukan *write*, *read*, dan *execute*,
+tetapi *group* dan *others* hanya bisa *read* dan *execute*.
+
+![Screenshot 2024-09-12 065931](https://github.com/user-attachments/assets/499efaef-ce5b-43db-b2fd-c7016afe199d)
+![Screenshot 2024-09-12 070145](https://github.com/user-attachments/assets/be8d71be-97aa-450c-adce-160258ccac0d)
+
+6. Mengubah izin akses file *dataku* pada sub direktori *maret* sehingga semua dapat melakukan *write*, *read*, dan *execute*.
+![Screenshot 2024-09-12 070306](https://github.com/user-attachments/assets/a747b962-1e91-406b-8f1f-6d8219c9e664)
+
+7. Menghapus direktori *maret*.
+![Screenshot 2024-09-12 070508](https://github.com/user-attachments/assets/aa313cfe-c8e1-4531-9780-21dde587e3a2)
+
+8. Mengubah kepemilikan sub direktori *februari* sehingga *user* dan *group* hanya dapat melakukan *read*, dan cobalah untuk membuat direktori baru *haha* pada sub direktori *februari*.
+![Screenshot 2024-09-12 071019](https://github.com/user-attachments/assets/8814f8f8-e64e-47a7-973c-76103450f8af)
+
+9. Modifikasi *umask* dari file *dataku* pada sub direktori *januari* menjadi *027* dan tentukan nilai default-nya.
+![Screenshot 2024-09-12 071222](https://github.com/user-attachments/assets/6f3205ca-c420-42d0-95f4-1e9843c82eb9)
+
+10. Membuat *link* dari file *dataku* ke file *dataku.ini* dan *file dataku.juga, kemudian dengan perintah *list* perhatikan berapa banyak *link* yang terjadi.
+
+![Screenshot 2024-09-12 071404](https://github.com/user-attachments/assets/6915f19e-99f2-4e7b-9899-6d090757868e)

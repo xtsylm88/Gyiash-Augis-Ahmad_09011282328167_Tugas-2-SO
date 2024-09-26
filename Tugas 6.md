@@ -21,4 +21,13 @@
      *__- /home/mahasiswa/.bashrc__*
     
 ![Screenshot 2024-09-26 081059](https://github.com/user-attachments/assets/c945f5c7-d097-4e3d-ac30-19cbec16f87f)
+
 ![Screenshot 2024-09-26 081153](https://github.com/user-attachments/assets/45180e08-e989-488a-ba90-765c45327c51)
+
+- Ganti nama /home/mahasiswa/ dengan nama Anda sendiri. Pada setiap file tersebut, tambahkan instruksi berikut:
+    
+     *__echo "Profile dari .bash_profile"__*
+
+     Lakukan hal yang sama pada file yang lain
+
+  

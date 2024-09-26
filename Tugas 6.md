@@ -44,13 +44,13 @@
 
    Perbedaan kedua utilitas tersebut:
      
-     __1. su mahasiswa:__
+     1. su mahasiswa:
 
         Perintah ini menjalankan su untuk beralih ke user mahasiswa. Saat menggunakan perintah ini tanpa opsi -, lingkungan (environment) dari user saat ini tetap dipertahankan.
         Artinya, hanya identitas pengguna yang berubah, tetapi variabel lingkungan seperti PATH tidak akan berubah.
         Jadi, variabel lingkungan dan direktori kerja yang sedang aktif tetap sama seperti sebelumnya.
         
-     __2. su - mahasiswa:__
+     2. su - mahasiswa:
 
         Perintah ini menggunakan opsi - yang dikenal sebagai login shell. Opsi ini melakukan login penuh sebagai user mahasiswa,
         sehingga environment yang dimuat adalah environment milik mahasiswa secara lengkap.

@@ -7,7 +7,7 @@
 
 ![Screenshot 2024-09-26 072129](https://github.com/user-attachments/assets/c7c9a6d8-89e5-4db9-afac-8563ffca9b07)
 
-
+![Screenshot 2024-09-26 080600](https://github.com/user-attachments/assets/de2c5108-3b20-4a4f-a088-24dc28931fe7)
 
 
   - Asumsikan nama Anda stD02001, maka edit semua profile yang ada, yaitu:
@@ -20,3 +20,5 @@
      
      *__- /home/mahasiswa/.bashrc__*
     
+![Screenshot 2024-09-26 081059](https://github.com/user-attachments/assets/c945f5c7-d097-4e3d-ac30-19cbec16f87f)
+![Screenshot 2024-09-26 081153](https://github.com/user-attachments/assets/45180e08-e989-488a-ba90-765c45327c51)
